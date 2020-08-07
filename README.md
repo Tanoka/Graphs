@@ -1,6 +1,6 @@
 ## nodejs practice
 
-Javascript practice with graphs code implementation in nodejs based on the Java code examples of Algorithms book.
+Javascript practice of graphs implementations based on the Java code examples of Algorithms book.
 
 
 Algorithms implementation is in algorithms folder.
